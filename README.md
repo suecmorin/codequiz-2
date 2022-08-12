@@ -16,4 +16,5 @@ SUPPORT Please contact Sue Morin, suecmorin@gmail.com.
 
 IMAGE https:
 
-CONTRIBUTING 
+![image](https://user-images.githubusercontent.com/108021713/184269888-a6a893e1-59fa-4835-bd5d-b748158fbad6.png)
+
